@@ -2,7 +2,7 @@
 
 <img src="SiteFiles/IMG_3261.HEIC" align="left" width=150>&nbsp; Graduating Senior<br/>
 &nbsp; Southern New Hampshire University <br/>
-&nbsp; &nbsp; email: joshua.aalbert@snhu.edu<br/>
+&nbsp; &nbsp; email: joshua.albert@snhu.edu<br/>
 &nbsp; &nbsp; [Resume](https://agmath.github.io/PagesBasic/SiteFiles/Resume/peter_resume.html)
 
 <br/>
