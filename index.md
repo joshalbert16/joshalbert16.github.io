@@ -12,7 +12,7 @@
 
 ### Welcome
 
-Welcome to my page – I am a graduating senior from Southern New Hampshire University studying Environmental Science. I am specifiically interested in hydrology, soil dynamics, and geomorhpology related to anthropogenic impacts of industry on varying time-scales. Please reach out if you have any questions.
+Welcome to my page – I am a graduating senior from Southern New Hampshire University studying Environmental Science. I am specifiically interested in hydrology, soil dynamics, and geomorphology related to anthropogenic impacts of industry on varying time-scales. Please reach out if you have any questions.
 
 ### Current Projects
 
