@@ -16,4 +16,4 @@ Welcome to my page – I am a graduating senior from Southern New Hampshire Univ
 
 ### Current Projects
 
-In Progress, more to come soon!
+This is the first model we have worked with in the class: https://joshalbert16.github.io/MAT434/SpaceshipTitanic.html
