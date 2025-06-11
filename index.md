@@ -12,7 +12,7 @@
 
 ### Welcome
 
-Welcome to my page – I am a graduate student from the SUNY College of Environmental Science and Forestry studying Environmental Science. I am specifiically interested in hydrology, soil dynamics, and geomorphology related to anthropogenic impacts of industry on varying time-scales. Please reach out if you have any questions.
+Welcome to my page – I am a graduate student from the SUNY College of Environmental Science and Forestry studying Ecosystems: Land, Air, and Water in Nathan Youngs Integrated Hydrologic Sciences Laboratory. I am specifiically interested in hydrology, soil dynamics, and geomorphology related to anthropogenic impacts of industry on varying time-scales. Please reach out if you have any questions.
 
 ### Current Projects
 
