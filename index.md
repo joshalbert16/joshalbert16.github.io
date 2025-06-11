@@ -1,8 +1,8 @@
 ## Josh Albert
 
-<img src="SiteFiles/IMG_3261.HEIC" align="left" width=150>&nbsp; Graduating Senior<br/>
-&nbsp; Southern New Hampshire University <br/>
-&nbsp; &nbsp; email: joshua.albert@snhu.edu<br/>
+<img src="SiteFiles/IMG_3261.HEIC" align="left" width=150>&nbsp; Graduate Student<br/>
+&nbsp; SUNY College of Environmental Science and Forestry  <br/>
+&nbsp; &nbsp; email: jalbert1@esf.edu<br/>
 &nbsp; &nbsp; [Resume]()
 
 <br/>
@@ -12,11 +12,12 @@
 
 ### Welcome
 
-Welcome to my page – I am a graduating senior from Southern New Hampshire University studying Environmental Science. I am specifiically interested in hydrology, soil dynamics, and geomorphology related to anthropogenic impacts of industry on varying time-scales. Please reach out if you have any questions.
+Welcome to my page – I am a graduate student from the SUNY College of Environmental Science and Forestry studying Environmental Science. I am specifiically interested in hydrology, soil dynamics, and geomorphology related to anthropogenic impacts of industry on varying time-scales. Please reach out if you have any questions.
 
 ### Current Projects
 
-This is the first model we have worked with in the class: 
+This is the first model I have played with in Dr. Adam Gilberts RStudio modeling course: 
 
 
 Heres [a report on the Spaceship Titanic dataset](https://joshalbert16.github.io/MAT434/SpaceshipTitanic.html):
+
